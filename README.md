@@ -1,6 +1,6 @@
 # Links link
 * [LinearDataStructuresJ](https://replit.com/team/Algos-Block4-2122/LinearDataStructuresJ)
-* [LinearDataStructuresPy](https://replit.com/team/Algos-Block4-2122/LinearDataStructuresJ)
+* [LinearDataStructuresPy](https://replit.com/team/Algos-Block4-2122/LinearDataStructuresPy)
 
 ## Old
 * [LinkedListJ](https://replit.com/team/Algos-Block4-2122/LinkedListJ)
