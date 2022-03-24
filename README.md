@@ -1,6 +1,6 @@
 # Links link
 * [Today's Formative](https://app.formative.com/formatives/622fa2727b1d33ba7ae47096)
-
+* [Puzzles](https://docs.google.com/document/d/1_vxNx2moJnbU14pmMjeP4tUTo4VFEjoWOwfExh1F-Kc/edit?usp=sharing)
 ## Old
 * [LinearDataStructuresJ](https://replit.com/team/Algos-Block4-2122/LinearDataStructuresJ)
 * [LinearDataStructuresPy](https://replit.com/team/Algos-Block4-2122/LinearDataStructuresPy)
