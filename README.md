@@ -1,5 +1,9 @@
 # Links link
 * [Today's Formative](https://app.formative.com/formatives/625484a3898530ddf689d006)
+* Tree repls:
+    - [BSTreeJ](https://replit.com/team/Algos-Block4-2122/BSTreeJ)
+    - [BSTreePy](https://replit.com/team/Algos-Block4-2122/BSTreePy)
+
 * [Puzzles](https://docs.google.com/document/d/1_vxNx2moJnbU14pmMjeP4tUTo4VFEjoWOwfExh1F-Kc/edit?usp=sharing)
 ## Old
 * [LinearDataStructuresJ](https://replit.com/team/Algos-Block4-2122/LinearDataStructuresJ)
